@@ -1,0 +1,22 @@
+{
+  "name": "CypressTest",
+  "version": "1.0.0",
+  "description": "Cypress Test Project",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^12.17.1",
+    "cypress-mochawesome-reporter": "^3.5.1"
+  },
+  "scripts": {
+    "cypress:open:my_sit": "cypress open --env environment=my_sit",
+    "cypress:open:my_uatba": "cypress open --env environment=my_uatba",
+    "cypress:open:my_uatit": "cypress open --env environment=my_uatit",
+    "cypress:open:kh_sit": "cypress open --env environment=kh_sit",
+    "cypress:run:my_sit": "cypress run --env environment=my_sit",
+    "cypress:run:my_uatba": "cypress run --env environment=my_uatba",
+    "cypress:run:my_uatit": "cypress run --env environment=my_uatit",
+    "cypress:run:kh_sit": "cypress run --env environment=kh_sit"
+  },
+  "author": "Tim Chao & Leo Chen",
+  "license": "ISC"
+}

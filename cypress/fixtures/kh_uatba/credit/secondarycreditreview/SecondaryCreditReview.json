@@ -1,0 +1,21 @@
+{
+    "user": "KH00170",
+    "applicationDateStart": "01072023",
+    "applicationDateEnd": "24072023",
+    "caseNo": "F238000084VA2",
+    "amendmentReason":" Others ",
+    "amendmentComment":"test123",    
+    "purchasePrice":"10000",
+    "creditAppraisalPrice":"10000",
+    "downPayment":"5000",
+    "interestFlatRate":"10",
+    "idIssueDate":"20000101",
+    "idExpiryDate":"20230101",
+    "birthDate":"19870101",
+    "companyId":"94",
+    "employerName":"Tim",
+    "dateManufacture":"202302",
+    "applyTenure":"24",
+    "lengthOfEmployment":"10"
+}
+

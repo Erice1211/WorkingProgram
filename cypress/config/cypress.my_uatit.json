@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://uat-it-creditratingscales.chailease.com.my",
+  "env": {},
+  "specPattern": [
+    "cypress/e2e/credit/credit/*.js",
+    "cypress/e2e/credit/Amendment/*.js",
+    "cypress/e2e/credit/SecondaryCreditReview/*.js"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "user": "MY00119",
+    "companyId": "92",
+    "applicationDateStart": "01072023",
+    "applicationDateEnd": "24072023",
+    "caseNo": "H238000398VA4",   
+    "amendmentReason":"Others",
+    "amendmentComment":"測試變更申請作業",
+    "purchasePrice":"20000",
+    "downPayment":"10000",
+    "interestFlatRate":"8",
+    "birthDate":"17071987",
+    "PreliminaryStageExtrFlag1":"Y",
+    "SalesManagerConfirmationStageExtrFlag1":"N",
+    "CreditReviewStageExtrFlag1":"Y",
+    "CreditReviewStageExtrFlag2":"Y",
+    "ApprovalStageExtrFlag1":"Y",
+    "ApprovalStageExtrFlag2":"Y",
+    "ApprovalStageExtFlagr3":"Y",
+    "ApprovalStageExtrFlag4":"Y"  
+}
+

@@ -1,0 +1,22 @@
+{
+    "user": "MY00371",
+    "companyId": "92",
+    "applicationDateStart": "01072023",
+    "applicationDateEnd": "24072023",
+    "caseNo": "H238000400VA4",   
+    "purchasePrice":"10000",
+    "creditAppraisalPrice":"10000",
+    "downPayment":"5000",
+    "interestFlatRate":"10",
+    "Ranci":"9",
+    "birthDate":"17071987",
+    "PreliminaryStageExtrFlag1":"Y",
+    "SalesManagerConfirmationStageExtrFlag1":"N",
+    "CreditReviewStageExtrFlag1":"Y",
+    "CreditReviewStageExtrFlag2":"Y",
+    "ApprovalStageExtrFlag1":"Y",
+    "ApprovalStageExtrFlag2":"Y",
+    "ApprovalStageExtFlagr3":"Y",
+    "ApprovalStageExtrFlag4":"Y"  
+}
+

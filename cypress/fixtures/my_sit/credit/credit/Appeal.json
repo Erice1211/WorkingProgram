@@ -1,0 +1,21 @@
+{
+    "prescreenUser": "MY00177",
+    "appealUser": "MY00119",
+    "caseNo": "H238000169VA4",
+    "purchasePrice":"10000",
+    "creditAppraisalPrice":"10000",
+    "downPayment":"5000",
+    "interestFlatRate":"10",
+    "interestFlatRateForAppeal":"5",
+    "birthDate":"17071987",
+    "PreliminaryStageExtrFlag1":"Y",
+    "SalesManagerConfirmationStageExtrFlag1":"N",
+    "CreditReviewStageExtrFlag1":"Y",
+    "CreditReviewStageExtrFlag2":"Y",
+    "ApprovalStageExtrFlag1":"Y",
+    "ApprovalStageExtrFlag2":"Y",
+    "ApprovalStageExtFlagr3":"Y",
+    "ApprovalStageExtrFlag4":"Y"  
+
+}
+  

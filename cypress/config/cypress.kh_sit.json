@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://sit01-creditratingscales.chailease.com.kh",
+    "env": {},
+    "specPattern": [
+      "cypress/e2e/credit/credit/*.js",
+      "cypress/e2e/credit/Amendment/*.js"
+    ]
+  }
+  
